@@ -8,4 +8,6 @@ export default function demo(value) {
   return `Demo: ${value}`;
 }
 
+console.log(unusedVariable);
+
 console.log("app.js included");
