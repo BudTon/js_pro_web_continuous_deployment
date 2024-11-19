@@ -12,7 +12,6 @@ const unusedVariable = "variable";
 function demo(value) {
   return `Demo: ${value}`;
 }
-console.log(unusedVariable);
 console.log("app.js included");
 ;// CONCATENATED MODULE: ./src/index.js
 
